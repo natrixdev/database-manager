@@ -12,6 +12,9 @@ log()
   log 
      chalk.GREEN("Users : $$users" + "Passwords : $$passwords")
      
+if (data ==false) {
+  {console.log"Data base not avaible"}
+  $data.destroy() 
    //exports
    
    natrix.export();
